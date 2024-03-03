@@ -349,7 +349,7 @@ header>#bottomHeader>p>span>a {
     width: 38px;
     height: 39px;
     background-image: url(../img/etc/icon_arrow_left.png);
-    background-size: covor;
+    background-size: cover;
     margin-left: 904px;
 }
 
@@ -358,7 +358,7 @@ header>#bottomHeader>p>span>a {
     width: 38px;
     height: 39px;
     background-image: url(../img/etc/icon_arrow_right.png);
-    background-size: covor;
+    background-size: cover;
     margin-top: -39px;
     margin-left: 942px;
 }
@@ -437,7 +437,7 @@ header>#bottomHeader>p>span>a {
     width: 38px;
     height: 39px;
     background-image: url(../img/etc/icon_arrow_left.png);
-    background-size: covor;
+    background-size: cover;
     margin-left: 904px;
 }
 
@@ -446,7 +446,7 @@ header>#bottomHeader>p>span>a {
     width: 38px;
     height: 39px;
     background-image: url(../img/etc/icon_arrow_right.png);
-    background-size: covor;
+    background-size: cover;
     margin-top: -39px;
     margin-left: 942px;
 }
@@ -513,7 +513,7 @@ header>#bottomHeader>p>span>a {
     height: 55px;
     text-align: center;
     line-height: 55px;
-    font-size: bold;
+    font-weight: bold;
     border-bottom: 1px solid #ccc;
     border-top: 1px solid #ccc;
     cursor: pointer;
